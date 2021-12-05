@@ -1,0 +1,35 @@
+button{
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    width:15%;
+    height:6%;
+    background-color: rosybrown;
+    border-radius: 3px;
+    font-weight:bold;
+    letter-spacing: 1px;
+    margin-top: 10px;
+
+}
+body{
+    font-family: 'Sniglet', cursive;
+    background-color: cadetblue;
+}
+.header_div{
+    background-color:rgb(250, 221, 184);
+    color:rosybrown;
+}
+.header_div p{
+    font-family: 'Itim', cursive;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.copy_right_footer{
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    background-color: rgb(250, 221, 184);
+    color:rosybrown;
+    width:100%;
+    height:5%;
+    position:fixed;
+    bottom:0;
+    text-shadow: 5px 5px 5px grey;
+    font-size:20px;
+}
